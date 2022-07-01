@@ -21,6 +21,12 @@ const config = {
       link: "https://github.com/Kurumin7-gif/juegos/",
       name: "Guess the Number+Guess the Word",
     },
+    {
+      id: "project-2",
+      image: "assets/img/minizeca.png",
+      link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
+      name: "Gang do Zeca's Page",
+    },
   ],
 
   SOCIALS: [
