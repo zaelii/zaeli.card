@@ -13,7 +13,6 @@ const config = {
     { id: "VSCode", image: "assets/img/vscode.png" },
     { id: "Html", image: "assets/img/html.png" },
     { id: "Css", image: "assets/img/css.png" },
-    { id: "Terminal", image: "assets/img/terminal.png" },
   ],
 
   PROJECTS: [
