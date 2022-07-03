@@ -11,6 +11,8 @@ const config = {
     { id: "Python Starter", image: "assets/img/python.png" },
     { id: "Dev Starter", image: "assets/img/devbadge.png" },
     { id: "VSCode", image: "assets/img/vscode.png" },
+    { id: "Html", image: "assets/img/html.png" },
+    { id: "Css", image: "assets/img/css.png" },
     { id: "Terminal", image: "assets/img/terminal.png" },
   ],
 
@@ -26,6 +28,12 @@ const config = {
       image: "assets/img/minizeca.png",
       link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
       name: "Gang do Zeca's Page",
+    },
+    {
+      id: "project-3",
+      image: "assets/img/anya.png",
+      link: "https://kurumin7-gif.github.io/zaeli.card/",
+      name: "AnyaBot!",
     },
   ],
 
