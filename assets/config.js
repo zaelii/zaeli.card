@@ -8,31 +8,30 @@ const config = {
     "Hi, I'm Zaeli, a 20 years old young Brazillian starter programmer and gamer in my free time.",
 
   BADGES: [
-    { id: "Python Starter", image: "assets/img/python.png" },
-    { id: "Dev Starter", image: "assets/img/devbadge.png" },
-    { id: "VSCode", image: "assets/img/vscode.png" },
+
     { id: "Html", image: "assets/img/html.png" },
     { id: "Css", image: "assets/img/css.png" },
+    { id: "Javascript", image: "assets/img/javascript.png" },
+    { id: "React", image: "assets/img/react.png" },
+    { id: "Typescript", image: "assets/img/typescript.png" },
+    { id: "Nodejs", image: "assets/img/node.png" },
+    { id: "Mongo", image: "assets/img/mongo.png" },
+
+    { id: "Python Starter", image: "assets/img/python.png" },
   ],
 
   PROJECTS: [
     {
       id: "project-1",
-      image: "assets/img/guessgame.png",
+      image: "assets/img/calculator.png",
       link: "https://github.com/Kurumin7-gif/juegos/",
-      name: "Guess the Number+Guess the Word",
+      name: "Simple Calculator",
     },
     {
       id: "project-2",
       image: "assets/img/minizeca.png",
       link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
-      name: "Gang do Zeca's Page",
-    },
-    {
-      id: "project-3",
-      image: "assets/img/anya.png",
-      link: "https://kurumin7-gif.github.io/zaeli.card/",
-      name: "AnyaBot!",
+      name: "Gang do Zeca's Discord Page",
     },
   ],
 
