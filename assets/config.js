@@ -24,13 +24,13 @@ const config = {
     {
       id: "project-2",
       image: "assets/img/minizeca.png",
-      link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
+      link: "https://zaelii.github.io/gang-do-zeca-discord/",
       name: "Gang do Zeca's Discord Page",
     },
     {
       id: "project-3",
       image: "assets/img/perfume.png",
-      link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
+      link: "https://zaelii.github.io/gang-do-zeca-discord/",
       name: "Perfumé Card Shop",
     },
     {
