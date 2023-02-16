@@ -22,12 +22,6 @@ const config = {
 
   PROJECTS: [
     {
-      id: "project-1",
-      image: "assets/img/calculator.png",
-      link: "https://zaelii.github.io/calculadora/",
-      name: "Simple Calculator",
-    },
-    {
       id: "project-2",
       image: "assets/img/minizeca.png",
       link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
@@ -40,10 +34,16 @@ const config = {
       name: "Perfumé Card Shop",
     },
     {
-      id: "project-3",
+      id: "project-4",
       image: "assets/img/me-curriculum.png",
       link: "https://zaelii.github.io/portfolio-apresentacao-simples/index.html",
       name: "My simple curriculum",
+    },
+    {
+      id: "project-1",
+      image: "assets/img/calculator.png",
+      link: "https://zaelii.github.io/calculadora/",
+      name: "Simple Calculator",
     },
   ],
 
