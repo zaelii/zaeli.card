@@ -30,7 +30,7 @@ const config = {
     {
       id: "project-3",
       image: "assets/img/perfume.png",
-      link: "https://zaelii.github.io/gang-do-zeca-discord/",
+      link: "https://zaelii.github.io/preview-perfumecard-html-css-only/",
       name: "Perfumé Card Shop",
     },
     {
