@@ -24,7 +24,7 @@ const config = {
     {
       id: "project-1",
       image: "assets/img/calculator.png",
-      link: "https://github.com/Kurumin7-gif/juegos/",
+      link: "https://zaelii.github.io/calculadora/",
       name: "Simple Calculator",
     },
     {
@@ -32,6 +32,18 @@ const config = {
       image: "assets/img/minizeca.png",
       link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
       name: "Gang do Zeca's Discord Page",
+    },
+    {
+      id: "project-3",
+      image: "assets/img/perfume.png",
+      link: "https://kurumin7-gif.github.io/gang-do-zeca-discord/",
+      name: "Perfumé Card Shop",
+    },
+    {
+      id: "project-3",
+      image: "assets/img/me-curriculum.png",
+      link: "https://zaelii.github.io/portfolio-apresentacao-simples/index.html",
+      name: "My simple curriculum",
     },
   ],
 
