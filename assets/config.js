@@ -1,8 +1,8 @@
 const config = {
   USERNAME: "Zaeli#9835",
 
-  PICTURE: "assets/img/profile_picture.gif",
-  HEADER: "assets/img/header.gif",
+  PICTURE: "assets/img/profile_picture.png",
+  HEADER: "assets/img/header.png",
 
   DESCRIPTION:
     "Hi, I'm Zaeli, a 20 years old young Brazillian starter programmer and gamer in my free time.",
