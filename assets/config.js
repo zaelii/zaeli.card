@@ -1,11 +1,11 @@
 const config = {
-  USERNAME: "Zaeli#9835",
+  USERNAME: "zaeeli",
 
   PICTURE: "assets/img/profile_picture.png",
   HEADER: "assets/img/header.png",
 
   DESCRIPTION:
-    "Hi, I'm Zaeli, a 20 years old young Brazillian starter programmer and gamer in my free time.",
+    "Hi, I'm Zaeli, a 22 years old young Brazillian starter programmer and gamer in my free time.",
 
   BADGES: [
 
@@ -16,8 +16,7 @@ const config = {
     { id: "Typescript", image: "assets/img/typescript.png" },
     { id: "Nodejs", image: "assets/img/node.png" },
     { id: "Mongo", image: "assets/img/mongo.png" },
-
-    { id: "Python Starter", image: "assets/img/python.png" },
+    { id: "Python", image: "assets/img/python.png" },
   ],
 
   PROJECTS: [
@@ -48,7 +47,7 @@ const config = {
   ],
 
   SOCIALS: [
-    { class_name: "fab fa-github", link: "https://github.com/Kurumin7-gif" },
+    { class_name: "fab fa-github", link: "https://github.com/zaelii" },
     { class_name: "fab fa-twitter", link: "https://twitter.com/zaaeeli" },
     { class_name: "fab fa-twitch", link: "https://www.twitch.tv/zaeeli" },
     { class_name: "fab fa-instagram", link: "https://www.instagram.com/disraelifilho/"}
